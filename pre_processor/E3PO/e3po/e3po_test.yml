@@ -1,0 +1,57 @@
+e3po_settings:
+  encoding_params:
+    bf: 0
+    encoder: libx264
+    gop: 60
+    preset: faster
+    qp_list:
+    - 29
+    video_fps: 30
+  ffmpeg:
+    ffmpeg_path: null
+    loglevel: error
+    thread: 6
+  log:
+    console_log_level: null
+    file_log_level: null
+    save_log_file: true
+  metric:
+    fov_resolution:
+    - 1920
+    - 1832
+    gc_alpha: 0.006
+    gc_beta: 10
+    gc_w1: 0.09
+    gc_w2: 1.5e-05
+    gc_w3: 0.000334
+    inter_mode: bilinear
+    psnr_flag: true
+    psnr_ssim_frequency: 1
+    range_fov:
+    - 89
+    - 89
+    save_benchmark_flag: true
+    save_result_img_flag: true
+    ssim_flag: true
+    use_gpu: false
+  motion_trace:
+    column_idx: 1
+    motion_file: release_video_1_motion_1.txt
+    motion_frequency: 100
+    sample_frequency: 100
+  network_trace:
+    bandwidth: 100
+    pre_download_duration: 0.3
+    rendering_delay: 10
+    rtt: 30
+  video:
+    chunk_duration: 5
+    origin:
+      height: 1920
+      projection_mode: erp
+      video_name: simple3.mp4
+      width: 3840
+    video_duration: 79
+    video_fps: 25
+project_path: null
+test_group: simple3

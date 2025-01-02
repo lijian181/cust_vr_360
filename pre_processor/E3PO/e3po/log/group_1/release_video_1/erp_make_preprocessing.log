@@ -1,0 +1,7 @@
+2024-11-30 16:24:38,184 INFO: [preprocessing data] start
+2024-11-30 16:24:38,215 INFO: [create data] OnDemandData is created
+2024-11-30 16:24:38,224 INFO: [generating chunk] start
+2024-11-30 16:24:38,224 INFO: [generating chunk] chunk_idx=0
+2024-11-30 16:24:38,224 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -i E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\release_video_1.mp4 -threads 6 -preset faster -c:v libx264 -bf 0 -ss 00:00:00 -to 00:00:02 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_1\release_video_1\erp\chunk_0000.mp4 -loglevel error
+2024-11-30 16:24:38,524 INFO: [generating chunk] end
+2024-11-30 16:24:38,585 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 30 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_1\release_video_1\erp\dst_video_folder\chunk_0000_tile_000.mp4 -loglevel error

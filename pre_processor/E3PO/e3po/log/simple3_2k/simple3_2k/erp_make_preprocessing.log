@@ -1,0 +1,5 @@
+2025-01-02 17:06:37,179 INFO: [preprocessing data] start
+2025-01-02 17:06:37,200 INFO: [create data] OnDemandData is created
+2025-01-02 17:06:37,200 INFO: [generating chunk] start
+2025-01-02 17:06:37,200 INFO: [generating chunk] chunk_idx=0
+2025-01-02 17:06:37,200 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -i E:\code\cust-project\vr_360\cust_vr_360\pre_processor\E3PO\e3po\source\video\simple3_2k.mp4 -threads 6 -preset faster -c:v libx264 -bf 0 -ss 00:00:00 -to 00:01:19 -y E:\code\cust-project\vr_360\cust_vr_360\pre_processor\E3PO\e3po\source\video\simple3_2k\simple3_2k\erp\chunk_0000.mp4 -loglevel error

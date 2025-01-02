@@ -1,0 +1,2407 @@
+2024-11-30 16:43:17,918 INFO: [evaluation] start
+2024-11-30 16:43:17,939 INFO: [create evaluation] OnDemandEvaluation is created
+2024-11-30 16:43:17,939 INFO: [decision to playable] end
+2024-11-30 16:43:19,469 DEBUG: [evaluation] start get display img 0
+2024-11-30 16:43:21,259 DEBUG: [evaluation] end get display img 0
+2024-11-30 16:43:21,279 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:43:22,288 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:43:22,418 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:43:22,478 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:43:22,478 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:43:23,699 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:43:25,159 DEBUG: [evaluation] start get display img 1
+2024-11-30 16:43:26,909 DEBUG: [evaluation] end get display img 1
+2024-11-30 16:43:26,929 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:43:27,909 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:43:28,037 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:43:28,089 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:43:28,089 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:43:29,339 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:43:30,929 DEBUG: [evaluation] start get display img 2
+2024-11-30 16:43:32,829 DEBUG: [evaluation] end get display img 2
+2024-11-30 16:43:32,849 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:43:33,849 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:43:33,989 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:43:34,047 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:43:34,047 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:43:35,289 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:43:36,789 DEBUG: [evaluation] start get display img 3
+2024-11-30 16:43:38,619 DEBUG: [evaluation] end get display img 3
+2024-11-30 16:43:38,639 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:43:39,639 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:43:39,779 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:43:39,839 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:43:39,839 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:43:41,119 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:43:42,708 DEBUG: [evaluation] start get display img 4
+2024-11-30 16:43:44,508 DEBUG: [evaluation] end get display img 4
+2024-11-30 16:43:44,527 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:43:45,519 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:43:45,649 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:43:45,719 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:43:45,719 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:43:46,949 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:43:48,419 DEBUG: [evaluation] start get display img 5
+2024-11-30 16:43:50,170 DEBUG: [evaluation] end get display img 5
+2024-11-30 16:43:50,189 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:43:51,189 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:43:51,319 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:43:51,379 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:43:51,379 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:43:52,639 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:43:54,109 DEBUG: [evaluation] start get display img 6
+2024-11-30 16:43:55,879 DEBUG: [evaluation] end get display img 6
+2024-11-30 16:43:55,902 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:43:56,902 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:43:57,029 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:43:57,092 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:43:57,092 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:43:58,387 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:43:59,969 DEBUG: [evaluation] start get display img 7
+2024-11-30 16:44:01,759 DEBUG: [evaluation] end get display img 7
+2024-11-30 16:44:01,782 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:02,769 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:02,899 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:02,968 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:02,968 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:04,279 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:06,018 DEBUG: [evaluation] start get display img 8
+2024-11-30 16:44:07,789 DEBUG: [evaluation] end get display img 8
+2024-11-30 16:44:07,809 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:08,810 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:08,946 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:09,009 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:09,009 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:10,299 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:11,869 DEBUG: [evaluation] start get display img 9
+2024-11-30 16:44:13,722 DEBUG: [evaluation] end get display img 9
+2024-11-30 16:44:13,739 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:14,739 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:14,868 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:14,938 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:14,938 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:16,189 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:17,738 DEBUG: [evaluation] start get display img 10
+2024-11-30 16:44:19,634 DEBUG: [evaluation] end get display img 10
+2024-11-30 16:44:19,648 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:20,639 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:20,769 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:20,829 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:20,829 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:22,105 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:23,629 DEBUG: [evaluation] start get display img 11
+2024-11-30 16:44:25,440 DEBUG: [evaluation] end get display img 11
+2024-11-30 16:44:25,457 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:26,460 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:26,589 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:26,658 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:26,658 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:27,915 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:29,468 DEBUG: [evaluation] start get display img 12
+2024-11-30 16:44:31,290 DEBUG: [evaluation] end get display img 12
+2024-11-30 16:44:31,308 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:32,344 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:32,483 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:32,554 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:32,554 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:33,857 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:35,442 DEBUG: [evaluation] start get display img 13
+2024-11-30 16:44:37,303 DEBUG: [evaluation] end get display img 13
+2024-11-30 16:44:37,326 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:38,377 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:38,512 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:38,577 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:38,577 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:39,863 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:41,654 DEBUG: [evaluation] start get display img 14
+2024-11-30 16:44:43,595 DEBUG: [evaluation] end get display img 14
+2024-11-30 16:44:43,613 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:44,643 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:44,773 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:44,844 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:44,844 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:46,074 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:47,617 DEBUG: [evaluation] start get display img 15
+2024-11-30 16:44:49,357 DEBUG: [evaluation] end get display img 15
+2024-11-30 16:44:49,378 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:50,364 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:50,504 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:50,563 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:50,563 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:51,783 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:53,314 DEBUG: [evaluation] start get display img 16
+2024-11-30 16:44:55,094 DEBUG: [evaluation] end get display img 16
+2024-11-30 16:44:55,113 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:44:56,107 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:44:56,223 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:44:56,286 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:44:56,286 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:44:57,504 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:44:59,043 DEBUG: [evaluation] start get display img 17
+2024-11-30 16:45:00,807 DEBUG: [evaluation] end get display img 17
+2024-11-30 16:45:00,824 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:01,823 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:01,953 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:02,022 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:02,022 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:03,233 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:04,814 DEBUG: [evaluation] start get display img 18
+2024-11-30 16:45:06,602 DEBUG: [evaluation] end get display img 18
+2024-11-30 16:45:06,614 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:07,603 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:07,742 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:07,804 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:07,804 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:09,023 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:10,617 DEBUG: [evaluation] start get display img 19
+2024-11-30 16:45:12,363 DEBUG: [evaluation] end get display img 19
+2024-11-30 16:45:12,383 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:13,383 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:13,514 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:13,582 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:13,582 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:14,813 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:16,444 DEBUG: [evaluation] start get display img 20
+2024-11-30 16:45:18,194 DEBUG: [evaluation] end get display img 20
+2024-11-30 16:45:18,213 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:19,214 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:19,343 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:19,404 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:19,404 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:20,642 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:22,201 DEBUG: [evaluation] start get display img 21
+2024-11-30 16:45:23,953 DEBUG: [evaluation] end get display img 21
+2024-11-30 16:45:23,964 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:24,962 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:25,082 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:25,143 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:25,143 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:26,377 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:27,923 DEBUG: [evaluation] start get display img 22
+2024-11-30 16:45:29,687 DEBUG: [evaluation] end get display img 22
+2024-11-30 16:45:29,703 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:30,712 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:30,853 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:30,914 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:30,914 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:32,113 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:33,703 DEBUG: [evaluation] start get display img 23
+2024-11-30 16:45:35,454 DEBUG: [evaluation] end get display img 23
+2024-11-30 16:45:35,477 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:36,483 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:36,614 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:36,682 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:36,682 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:37,903 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:39,503 DEBUG: [evaluation] start get display img 24
+2024-11-30 16:45:41,274 DEBUG: [evaluation] end get display img 24
+2024-11-30 16:45:41,293 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:42,313 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:42,443 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:42,503 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:42,503 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:43,744 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:45,333 DEBUG: [evaluation] start get display img 25
+2024-11-30 16:45:47,104 DEBUG: [evaluation] end get display img 25
+2024-11-30 16:45:47,122 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:48,123 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:48,244 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:48,302 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:48,302 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:49,533 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:51,123 DEBUG: [evaluation] start get display img 26
+2024-11-30 16:45:52,924 DEBUG: [evaluation] end get display img 26
+2024-11-30 16:45:52,943 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:45:54,026 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:45:54,159 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:45:54,242 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:45:54,242 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:45:55,547 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:45:57,205 DEBUG: [evaluation] start get display img 27
+2024-11-30 16:45:58,994 DEBUG: [evaluation] end get display img 27
+2024-11-30 16:45:59,012 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:00,084 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:00,207 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:00,267 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:00,267 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:01,487 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:03,122 DEBUG: [evaluation] start get display img 28
+2024-11-30 16:46:04,892 DEBUG: [evaluation] end get display img 28
+2024-11-30 16:46:04,912 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:05,919 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:06,044 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:06,094 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:06,094 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:07,303 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:09,017 DEBUG: [evaluation] start get display img 29
+2024-11-30 16:46:10,885 DEBUG: [evaluation] end get display img 29
+2024-11-30 16:46:10,903 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:11,894 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:12,024 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:12,084 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:12,084 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:13,293 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:15,014 DEBUG: [evaluation] start get display img 30
+2024-11-30 16:46:16,754 DEBUG: [evaluation] end get display img 30
+2024-11-30 16:46:16,772 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:17,797 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:17,935 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:18,004 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:18,004 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:19,217 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:20,893 DEBUG: [evaluation] start get display img 31
+2024-11-30 16:46:22,644 DEBUG: [evaluation] end get display img 31
+2024-11-30 16:46:22,663 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:23,717 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:23,854 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:23,933 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:23,933 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:25,182 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:26,843 DEBUG: [evaluation] start get display img 32
+2024-11-30 16:46:28,627 DEBUG: [evaluation] end get display img 32
+2024-11-30 16:46:28,644 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:29,682 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:29,812 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:29,873 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:29,873 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:31,093 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:32,704 DEBUG: [evaluation] start get display img 33
+2024-11-30 16:46:34,443 DEBUG: [evaluation] end get display img 33
+2024-11-30 16:46:34,464 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:35,512 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:35,643 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:35,702 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:35,702 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:36,924 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:38,643 DEBUG: [evaluation] start get display img 34
+2024-11-30 16:46:40,484 DEBUG: [evaluation] end get display img 34
+2024-11-30 16:46:40,502 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:41,512 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:41,644 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:41,704 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:41,704 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:42,933 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:44,572 DEBUG: [evaluation] start get display img 35
+2024-11-30 16:46:46,394 DEBUG: [evaluation] end get display img 35
+2024-11-30 16:46:46,413 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:47,456 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:47,592 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:47,658 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:47,658 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:48,938 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:50,622 DEBUG: [evaluation] start get display img 36
+2024-11-30 16:46:52,439 DEBUG: [evaluation] end get display img 36
+2024-11-30 16:46:52,459 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:53,539 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:53,707 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:46:53,780 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:46:53,780 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:46:55,114 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:46:56,913 DEBUG: [evaluation] start get display img 37
+2024-11-30 16:46:58,747 DEBUG: [evaluation] end get display img 37
+2024-11-30 16:46:58,764 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:46:59,843 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:46:59,983 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:00,052 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:00,052 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:01,413 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:03,171 DEBUG: [evaluation] start get display img 38
+2024-11-30 16:47:05,013 DEBUG: [evaluation] end get display img 38
+2024-11-30 16:47:05,023 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:06,083 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:06,211 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:06,276 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:06,276 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:07,574 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:09,264 DEBUG: [evaluation] start get display img 39
+2024-11-30 16:47:11,074 DEBUG: [evaluation] end get display img 39
+2024-11-30 16:47:11,093 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:12,113 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:12,233 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:12,302 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:12,302 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:13,587 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:15,314 DEBUG: [evaluation] start get display img 40
+2024-11-30 16:47:17,114 DEBUG: [evaluation] end get display img 40
+2024-11-30 16:47:17,143 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:18,184 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:18,327 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:18,391 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:18,391 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:19,653 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:21,394 DEBUG: [evaluation] start get display img 41
+2024-11-30 16:47:23,206 DEBUG: [evaluation] end get display img 41
+2024-11-30 16:47:23,223 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:24,263 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:24,403 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:24,463 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:24,463 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:25,703 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:27,422 DEBUG: [evaluation] start get display img 42
+2024-11-30 16:47:29,222 DEBUG: [evaluation] end get display img 42
+2024-11-30 16:47:29,233 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:30,362 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:30,513 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:30,583 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:30,583 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:31,914 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:33,722 DEBUG: [evaluation] start get display img 43
+2024-11-30 16:47:35,563 DEBUG: [evaluation] end get display img 43
+2024-11-30 16:47:35,583 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:36,644 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:36,783 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:36,843 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:36,843 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:38,113 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:40,032 DEBUG: [evaluation] start get display img 44
+2024-11-30 16:47:42,173 DEBUG: [evaluation] end get display img 44
+2024-11-30 16:47:42,193 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:43,353 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:43,502 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:43,574 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:43,574 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:44,964 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:46,773 DEBUG: [evaluation] start get display img 45
+2024-11-30 16:47:49,029 DEBUG: [evaluation] end get display img 45
+2024-11-30 16:47:49,054 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:50,208 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:50,345 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:50,413 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:50,413 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:51,790 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:53,632 DEBUG: [evaluation] start get display img 46
+2024-11-30 16:47:55,530 DEBUG: [evaluation] end get display img 46
+2024-11-30 16:47:55,553 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:47:56,586 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:47:56,724 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:47:56,793 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:47:56,793 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:47:58,043 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:47:59,783 DEBUG: [evaluation] start get display img 47
+2024-11-30 16:48:01,744 DEBUG: [evaluation] end get display img 47
+2024-11-30 16:48:01,763 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:02,792 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:02,913 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:02,992 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:02,992 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:04,273 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:05,993 DEBUG: [evaluation] start get display img 48
+2024-11-30 16:48:07,803 DEBUG: [evaluation] end get display img 48
+2024-11-30 16:48:07,823 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:08,854 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:08,989 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:09,044 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:09,044 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:10,253 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:12,023 DEBUG: [evaluation] start get display img 49
+2024-11-30 16:48:13,873 DEBUG: [evaluation] end get display img 49
+2024-11-30 16:48:13,897 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:14,927 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:15,053 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:15,103 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:15,103 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:16,314 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:18,073 DEBUG: [evaluation] start get display img 50
+2024-11-30 16:48:19,882 DEBUG: [evaluation] end get display img 50
+2024-11-30 16:48:19,903 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:20,902 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:21,033 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:21,084 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:21,084 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:22,314 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:24,043 DEBUG: [evaluation] start get display img 51
+2024-11-30 16:48:25,843 DEBUG: [evaluation] end get display img 51
+2024-11-30 16:48:25,864 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:26,892 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:27,024 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:27,074 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:27,074 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:28,277 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:30,035 DEBUG: [evaluation] start get display img 52
+2024-11-30 16:48:31,834 DEBUG: [evaluation] end get display img 52
+2024-11-30 16:48:31,854 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:32,923 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:33,053 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:33,104 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:33,104 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:34,323 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:36,093 DEBUG: [evaluation] start get display img 53
+2024-11-30 16:48:37,912 DEBUG: [evaluation] end get display img 53
+2024-11-30 16:48:37,933 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:38,987 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:39,106 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:39,166 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:39,166 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:40,407 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:42,197 DEBUG: [evaluation] start get display img 54
+2024-11-30 16:48:44,056 DEBUG: [evaluation] end get display img 54
+2024-11-30 16:48:44,076 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:45,136 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:45,266 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:45,327 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:45,327 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:46,556 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:48,296 DEBUG: [evaluation] start get display img 55
+2024-11-30 16:48:50,130 DEBUG: [evaluation] end get display img 55
+2024-11-30 16:48:50,146 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:51,277 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:51,405 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:51,467 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:51,467 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:52,696 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:48:54,466 DEBUG: [evaluation] start get display img 56
+2024-11-30 16:48:56,307 DEBUG: [evaluation] end get display img 56
+2024-11-30 16:48:56,326 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:48:57,370 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:48:57,507 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:48:57,567 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:48:57,567 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:48:58,817 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:00,605 DEBUG: [evaluation] start get display img 57
+2024-11-30 16:49:02,415 DEBUG: [evaluation] end get display img 57
+2024-11-30 16:49:02,436 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:03,461 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:03,595 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:03,657 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:03,657 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:04,916 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:06,675 DEBUG: [evaluation] start get display img 58
+2024-11-30 16:49:08,476 DEBUG: [evaluation] end get display img 58
+2024-11-30 16:49:08,497 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:09,525 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:09,650 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:09,716 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:09,716 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:10,947 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:12,756 DEBUG: [evaluation] start get display img 59
+2024-11-30 16:49:14,571 DEBUG: [evaluation] end get display img 59
+2024-11-30 16:49:14,586 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:15,626 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:15,756 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:15,817 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:15,817 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:17,026 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:19,106 DEBUG: [evaluation] start get display img 60
+2024-11-30 16:49:20,986 DEBUG: [evaluation] end get display img 60
+2024-11-30 16:49:21,007 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:22,087 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:22,216 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:22,277 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:22,277 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:23,506 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:25,606 DEBUG: [evaluation] start get display img 61
+2024-11-30 16:49:27,486 DEBUG: [evaluation] end get display img 61
+2024-11-30 16:49:27,506 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:28,585 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:28,716 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:28,776 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:28,776 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:30,017 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:32,136 DEBUG: [evaluation] start get display img 62
+2024-11-30 16:49:34,025 DEBUG: [evaluation] end get display img 62
+2024-11-30 16:49:34,037 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:35,146 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:35,275 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:35,337 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:35,337 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:36,566 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:38,690 DEBUG: [evaluation] start get display img 63
+2024-11-30 16:49:40,596 DEBUG: [evaluation] end get display img 63
+2024-11-30 16:49:40,607 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:41,636 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:41,767 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:41,826 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:41,826 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:43,057 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:45,196 DEBUG: [evaluation] start get display img 64
+2024-11-30 16:49:47,120 DEBUG: [evaluation] end get display img 64
+2024-11-30 16:49:47,136 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:48,176 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:48,305 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:48,367 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:48,367 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:49,585 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:51,709 DEBUG: [evaluation] start get display img 65
+2024-11-30 16:49:53,616 DEBUG: [evaluation] end get display img 65
+2024-11-30 16:49:53,627 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:49:54,667 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:49:54,796 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:49:54,857 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:49:54,857 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:49:56,120 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:49:58,275 DEBUG: [evaluation] start get display img 66
+2024-11-30 16:50:00,157 DEBUG: [evaluation] end get display img 66
+2024-11-30 16:50:00,175 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:01,225 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:01,347 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:01,417 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:01,417 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:02,646 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:04,810 DEBUG: [evaluation] start get display img 67
+2024-11-30 16:50:06,706 DEBUG: [evaluation] end get display img 67
+2024-11-30 16:50:06,726 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:07,766 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:07,897 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:07,967 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:07,967 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:09,187 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:11,346 DEBUG: [evaluation] start get display img 68
+2024-11-30 16:50:13,190 DEBUG: [evaluation] end get display img 68
+2024-11-30 16:50:13,207 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:14,247 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:14,377 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:14,437 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:14,437 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:15,717 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:17,937 DEBUG: [evaluation] start get display img 69
+2024-11-30 16:50:19,817 DEBUG: [evaluation] end get display img 69
+2024-11-30 16:50:19,835 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:20,886 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:21,016 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:21,076 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:21,076 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:22,295 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:24,490 DEBUG: [evaluation] start get display img 70
+2024-11-30 16:50:26,316 DEBUG: [evaluation] end get display img 70
+2024-11-30 16:50:26,337 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:27,415 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:27,555 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:27,616 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:27,616 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:28,847 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:31,027 DEBUG: [evaluation] start get display img 71
+2024-11-30 16:50:32,857 DEBUG: [evaluation] end get display img 71
+2024-11-30 16:50:32,876 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:33,936 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:34,057 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:34,116 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:34,116 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:35,337 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:37,566 DEBUG: [evaluation] start get display img 72
+2024-11-30 16:50:39,406 DEBUG: [evaluation] end get display img 72
+2024-11-30 16:50:39,427 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:40,486 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:40,616 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:40,677 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:40,677 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:41,916 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:44,136 DEBUG: [evaluation] start get display img 73
+2024-11-30 16:50:45,976 DEBUG: [evaluation] end get display img 73
+2024-11-30 16:50:46,000 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:47,066 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:47,196 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:47,248 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:47,248 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:48,506 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:50,746 DEBUG: [evaluation] start get display img 74
+2024-11-30 16:50:52,536 DEBUG: [evaluation] end get display img 74
+2024-11-30 16:50:52,547 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:50:53,617 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:50:53,747 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:50:53,815 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:50:53,815 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:50:55,035 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:50:57,266 DEBUG: [evaluation] start get display img 75
+2024-11-30 16:50:59,117 DEBUG: [evaluation] end get display img 75
+2024-11-30 16:50:59,137 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:00,187 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:00,327 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:00,386 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:00,386 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:01,635 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:03,866 DEBUG: [evaluation] start get display img 76
+2024-11-30 16:51:05,677 DEBUG: [evaluation] end get display img 76
+2024-11-30 16:51:05,697 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:06,775 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:06,905 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:06,970 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:06,970 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:08,187 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:10,446 DEBUG: [evaluation] start get display img 77
+2024-11-30 16:51:12,245 DEBUG: [evaluation] end get display img 77
+2024-11-30 16:51:12,257 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:13,317 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:13,446 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:13,507 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:13,507 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:14,737 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:17,017 DEBUG: [evaluation] start get display img 78
+2024-11-30 16:51:18,817 DEBUG: [evaluation] end get display img 78
+2024-11-30 16:51:18,835 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:19,906 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:20,037 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:20,087 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:20,087 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:21,305 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:23,546 DEBUG: [evaluation] start get display img 79
+2024-11-30 16:51:25,306 DEBUG: [evaluation] end get display img 79
+2024-11-30 16:51:25,325 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:26,376 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:26,510 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:26,575 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:26,575 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:27,796 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:30,096 DEBUG: [evaluation] start get display img 80
+2024-11-30 16:51:31,877 DEBUG: [evaluation] end get display img 80
+2024-11-30 16:51:31,887 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:32,956 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:33,078 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:33,137 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:33,137 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:34,357 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:36,646 DEBUG: [evaluation] start get display img 81
+2024-11-30 16:51:38,406 DEBUG: [evaluation] end get display img 81
+2024-11-30 16:51:38,430 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:39,527 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:39,667 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:39,735 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:39,735 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:40,986 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:43,250 DEBUG: [evaluation] start get display img 82
+2024-11-30 16:51:44,937 DEBUG: [evaluation] end get display img 82
+2024-11-30 16:51:44,960 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:46,037 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:46,176 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:46,235 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:46,235 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:47,487 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:49,766 DEBUG: [evaluation] start get display img 83
+2024-11-30 16:51:51,546 DEBUG: [evaluation] end get display img 83
+2024-11-30 16:51:51,566 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:52,615 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:52,747 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:52,807 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:52,807 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:51:54,036 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:51:56,317 DEBUG: [evaluation] start get display img 84
+2024-11-30 16:51:58,087 DEBUG: [evaluation] end get display img 84
+2024-11-30 16:51:58,106 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:51:59,165 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:51:59,307 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:51:59,367 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:51:59,367 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:00,676 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:03,046 DEBUG: [evaluation] start get display img 85
+2024-11-30 16:52:04,985 DEBUG: [evaluation] end get display img 85
+2024-11-30 16:52:05,007 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:06,116 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:06,257 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:06,317 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:06,317 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:07,776 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:10,127 DEBUG: [evaluation] start get display img 86
+2024-11-30 16:52:12,125 DEBUG: [evaluation] end get display img 86
+2024-11-30 16:52:12,155 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:13,256 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:13,406 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:13,466 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:13,466 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:14,716 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:17,087 DEBUG: [evaluation] start get display img 87
+2024-11-30 16:52:19,027 DEBUG: [evaluation] end get display img 87
+2024-11-30 16:52:19,050 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:20,147 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:20,277 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:20,336 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:20,336 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:21,687 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:24,175 DEBUG: [evaluation] start get display img 88
+2024-11-30 16:52:26,197 DEBUG: [evaluation] end get display img 88
+2024-11-30 16:52:26,225 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:27,347 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:27,487 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:27,547 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:27,547 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:28,777 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:31,117 DEBUG: [evaluation] start get display img 89
+2024-11-30 16:52:33,308 DEBUG: [evaluation] end get display img 89
+2024-11-30 16:52:33,328 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:34,518 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:34,658 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:34,718 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:34,718 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:36,047 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:38,602 DEBUG: [evaluation] start get display img 90
+2024-11-30 16:52:40,548 DEBUG: [evaluation] end get display img 90
+2024-11-30 16:52:40,569 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:41,659 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:41,812 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:41,877 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:41,877 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:43,118 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:45,507 DEBUG: [evaluation] start get display img 91
+2024-11-30 16:52:47,478 DEBUG: [evaluation] end get display img 91
+2024-11-30 16:52:47,502 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:48,608 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:48,748 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:48,816 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:48,816 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:50,107 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:52,578 DEBUG: [evaluation] start get display img 92
+2024-11-30 16:52:54,557 DEBUG: [evaluation] end get display img 92
+2024-11-30 16:52:54,577 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:52:55,658 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:52:55,801 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:52:55,867 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:52:55,867 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:52:57,137 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:52:59,578 DEBUG: [evaluation] start get display img 93
+2024-11-30 16:53:01,608 DEBUG: [evaluation] end get display img 93
+2024-11-30 16:53:01,637 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:02,798 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:02,929 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:02,996 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:02,997 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:04,228 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:06,696 DEBUG: [evaluation] start get display img 94
+2024-11-30 16:53:08,727 DEBUG: [evaluation] end get display img 94
+2024-11-30 16:53:08,748 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:09,849 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:09,989 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:10,068 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:10,068 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:11,379 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:13,837 DEBUG: [evaluation] start get display img 95
+2024-11-30 16:53:15,837 DEBUG: [evaluation] end get display img 95
+2024-11-30 16:53:15,858 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:16,978 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:17,117 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:17,178 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:17,178 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:18,478 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:20,857 DEBUG: [evaluation] start get display img 96
+2024-11-30 16:53:22,938 DEBUG: [evaluation] end get display img 96
+2024-11-30 16:53:22,959 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:24,088 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:24,209 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:24,261 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:24,261 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:25,529 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:27,932 DEBUG: [evaluation] start get display img 97
+2024-11-30 16:53:29,849 DEBUG: [evaluation] end get display img 97
+2024-11-30 16:53:29,868 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:30,978 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:31,108 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:31,166 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:31,166 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:32,431 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:34,958 DEBUG: [evaluation] start get display img 98
+2024-11-30 16:53:36,867 DEBUG: [evaluation] end get display img 98
+2024-11-30 16:53:36,888 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:37,978 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:38,108 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:38,170 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:38,170 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:39,382 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:41,817 DEBUG: [evaluation] start get display img 99
+2024-11-30 16:53:43,717 DEBUG: [evaluation] end get display img 99
+2024-11-30 16:53:43,738 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:44,798 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:44,937 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:44,998 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:44,998 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:46,228 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:48,598 DEBUG: [evaluation] start get display img 100
+2024-11-30 16:53:50,498 DEBUG: [evaluation] end get display img 100
+2024-11-30 16:53:50,518 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:51,598 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:51,727 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:51,788 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:51,788 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:53,017 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:53:55,418 DEBUG: [evaluation] start get display img 101
+2024-11-30 16:53:57,297 DEBUG: [evaluation] end get display img 101
+2024-11-30 16:53:57,318 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:53:58,387 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:53:58,518 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:53:58,577 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:53:58,577 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:53:59,801 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:02,238 DEBUG: [evaluation] start get display img 102
+2024-11-30 16:54:04,158 DEBUG: [evaluation] end get display img 102
+2024-11-30 16:54:04,179 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:05,288 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:05,418 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:05,488 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:05,488 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:06,708 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:09,178 DEBUG: [evaluation] start get display img 103
+2024-11-30 16:54:11,087 DEBUG: [evaluation] end get display img 103
+2024-11-30 16:54:11,110 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:12,282 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:12,412 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:12,472 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:12,472 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:13,708 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:16,169 DEBUG: [evaluation] start get display img 104
+2024-11-30 16:54:18,058 DEBUG: [evaluation] end get display img 104
+2024-11-30 16:54:18,079 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:19,158 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:19,278 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:19,338 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:19,338 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:20,568 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:22,968 DEBUG: [evaluation] start get display img 105
+2024-11-30 16:54:24,858 DEBUG: [evaluation] end get display img 105
+2024-11-30 16:54:24,878 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:25,977 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:26,107 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:26,158 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:26,158 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:27,367 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:29,777 DEBUG: [evaluation] start get display img 106
+2024-11-30 16:54:31,668 DEBUG: [evaluation] end get display img 106
+2024-11-30 16:54:31,688 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:32,778 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:32,908 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:32,968 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:32,968 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:34,178 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:36,652 DEBUG: [evaluation] start get display img 107
+2024-11-30 16:54:38,537 DEBUG: [evaluation] end get display img 107
+2024-11-30 16:54:38,557 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:39,668 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:39,798 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:39,858 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:39,858 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:41,088 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:43,518 DEBUG: [evaluation] start get display img 108
+2024-11-30 16:54:45,398 DEBUG: [evaluation] end get display img 108
+2024-11-30 16:54:45,421 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:46,508 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:46,648 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:46,708 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:46,708 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:47,958 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:50,398 DEBUG: [evaluation] start get display img 109
+2024-11-30 16:54:52,278 DEBUG: [evaluation] end get display img 109
+2024-11-30 16:54:52,298 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:54:53,398 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:54:53,537 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:54:53,598 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:54:53,598 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:54:54,878 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:54:57,318 DEBUG: [evaluation] start get display img 110
+2024-11-30 16:54:59,218 DEBUG: [evaluation] end get display img 110
+2024-11-30 16:54:59,238 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:00,338 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:00,468 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:00,528 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:00,528 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:01,769 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:04,368 DEBUG: [evaluation] start get display img 111
+2024-11-30 16:55:06,337 DEBUG: [evaluation] end get display img 111
+2024-11-30 16:55:06,358 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:07,497 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:07,638 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:07,708 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:07,708 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:08,982 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:11,448 DEBUG: [evaluation] start get display img 112
+2024-11-30 16:55:13,378 DEBUG: [evaluation] end get display img 112
+2024-11-30 16:55:13,398 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:14,518 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:14,649 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:14,717 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:14,717 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:15,969 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:18,527 DEBUG: [evaluation] start get display img 113
+2024-11-30 16:55:20,617 DEBUG: [evaluation] end get display img 113
+2024-11-30 16:55:20,638 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:21,816 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:21,948 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:22,017 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:22,017 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:23,278 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:25,819 DEBUG: [evaluation] start get display img 114
+2024-11-30 16:55:27,697 DEBUG: [evaluation] end get display img 114
+2024-11-30 16:55:27,727 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:28,858 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:28,988 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:29,047 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:29,047 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:30,308 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:32,928 DEBUG: [evaluation] start get display img 115
+2024-11-30 16:55:34,766 DEBUG: [evaluation] end get display img 115
+2024-11-30 16:55:34,788 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:35,918 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:36,039 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:36,099 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:36,099 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:37,328 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:39,828 DEBUG: [evaluation] start get display img 116
+2024-11-30 16:55:41,562 DEBUG: [evaluation] end get display img 116
+2024-11-30 16:55:41,587 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:42,658 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:42,787 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:42,848 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:42,848 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:44,088 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:46,634 DEBUG: [evaluation] start get display img 117
+2024-11-30 16:55:48,388 DEBUG: [evaluation] end get display img 117
+2024-11-30 16:55:48,408 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:49,626 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:49,767 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:49,835 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:49,835 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:51,115 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:55:53,694 DEBUG: [evaluation] start get display img 118
+2024-11-30 16:55:55,590 DEBUG: [evaluation] end get display img 118
+2024-11-30 16:55:55,609 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:55:56,717 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:55:56,846 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:55:56,910 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:55:56,910 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:55:58,144 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:00,638 DEBUG: [evaluation] start get display img 119
+2024-11-30 16:56:02,394 DEBUG: [evaluation] end get display img 119
+2024-11-30 16:56:02,418 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:03,519 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:03,648 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:03,712 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:03,712 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:04,940 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:07,593 DEBUG: [evaluation] start get display img 120
+2024-11-30 16:56:09,372 DEBUG: [evaluation] end get display img 120
+2024-11-30 16:56:09,392 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:10,550 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:10,692 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:10,757 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:10,757 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:11,997 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:14,699 DEBUG: [evaluation] start get display img 121
+2024-11-30 16:56:16,508 DEBUG: [evaluation] end get display img 121
+2024-11-30 16:56:16,524 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:17,627 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:17,766 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:17,828 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:17,828 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:19,061 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:21,755 DEBUG: [evaluation] start get display img 122
+2024-11-30 16:56:23,558 DEBUG: [evaluation] end get display img 122
+2024-11-30 16:56:23,574 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:24,662 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:24,802 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:24,862 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:24,862 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:26,096 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:28,786 DEBUG: [evaluation] start get display img 123
+2024-11-30 16:56:30,599 DEBUG: [evaluation] end get display img 123
+2024-11-30 16:56:30,615 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:31,721 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:31,856 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:31,921 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:31,921 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:33,163 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:35,904 DEBUG: [evaluation] start get display img 124
+2024-11-30 16:56:37,734 DEBUG: [evaluation] end get display img 124
+2024-11-30 16:56:37,751 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:38,895 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:39,031 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:39,097 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:39,097 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:40,338 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:43,078 DEBUG: [evaluation] start get display img 125
+2024-11-30 16:56:44,906 DEBUG: [evaluation] end get display img 125
+2024-11-30 16:56:44,923 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:46,074 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:46,206 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:46,263 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:46,263 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:47,511 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:50,255 DEBUG: [evaluation] start get display img 126
+2024-11-30 16:56:52,128 DEBUG: [evaluation] end get display img 126
+2024-11-30 16:56:52,148 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:56:53,293 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:56:53,431 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:56:53,496 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:56:53,496 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:56:54,758 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:56:57,498 DEBUG: [evaluation] start get display img 127
+2024-11-30 16:56:59,326 DEBUG: [evaluation] end get display img 127
+2024-11-30 16:56:59,347 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:00,495 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:00,632 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:00,699 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:00,699 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:01,971 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:04,832 DEBUG: [evaluation] start get display img 128
+2024-11-30 16:57:06,924 DEBUG: [evaluation] end get display img 128
+2024-11-30 16:57:06,944 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:08,174 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:08,316 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:08,391 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:08,391 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:09,803 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:12,742 DEBUG: [evaluation] start get display img 129
+2024-11-30 16:57:14,681 DEBUG: [evaluation] end get display img 129
+2024-11-30 16:57:14,700 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:15,886 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:16,037 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:16,106 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:16,106 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:17,391 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:20,482 DEBUG: [evaluation] start get display img 130
+2024-11-30 16:57:22,494 DEBUG: [evaluation] end get display img 130
+2024-11-30 16:57:22,512 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:23,704 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:23,856 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:23,924 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:23,924 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:25,249 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:28,108 DEBUG: [evaluation] start get display img 131
+2024-11-30 16:57:30,056 DEBUG: [evaluation] end get display img 131
+2024-11-30 16:57:30,079 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:31,279 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:31,440 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:31,510 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:31,510 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:32,863 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:35,850 DEBUG: [evaluation] start get display img 132
+2024-11-30 16:57:37,852 DEBUG: [evaluation] end get display img 132
+2024-11-30 16:57:37,871 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:39,058 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:39,208 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:39,270 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:39,271 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:40,618 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:43,556 DEBUG: [evaluation] start get display img 133
+2024-11-30 16:57:45,595 DEBUG: [evaluation] end get display img 133
+2024-11-30 16:57:45,614 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:46,780 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:46,925 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:46,995 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:46,995 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:48,308 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:51,299 DEBUG: [evaluation] start get display img 134
+2024-11-30 16:57:53,224 DEBUG: [evaluation] end get display img 134
+2024-11-30 16:57:53,243 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:57:54,422 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:57:54,572 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:57:54,645 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:57:54,645 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:57:55,968 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:57:59,089 DEBUG: [evaluation] start get display img 135
+2024-11-30 16:58:01,036 DEBUG: [evaluation] end get display img 135
+2024-11-30 16:58:01,054 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:02,316 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:02,464 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:02,532 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:02,533 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:58:03,949 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:58:06,952 DEBUG: [evaluation] start get display img 136
+2024-11-30 16:58:08,857 DEBUG: [evaluation] end get display img 136
+2024-11-30 16:58:08,879 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:10,067 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:10,207 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:10,266 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:10,266 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:58:11,605 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:58:14,599 DEBUG: [evaluation] start get display img 137
+2024-11-30 16:58:16,634 DEBUG: [evaluation] end get display img 137
+2024-11-30 16:58:16,658 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:17,865 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:18,016 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:18,091 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:18,091 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:58:19,637 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:58:22,657 DEBUG: [evaluation] start get display img 138
+2024-11-30 16:58:24,737 DEBUG: [evaluation] end get display img 138
+2024-11-30 16:58:24,762 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:26,023 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:26,171 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:26,233 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:26,233 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:58:27,554 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:58:30,587 DEBUG: [evaluation] start get display img 139
+2024-11-30 16:58:32,757 DEBUG: [evaluation] end get display img 139
+2024-11-30 16:58:32,780 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:33,979 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:34,151 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:34,223 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:34,223 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:58:35,579 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:58:38,632 DEBUG: [evaluation] start get display img 140
+2024-11-30 16:58:40,719 DEBUG: [evaluation] end get display img 140
+2024-11-30 16:58:40,743 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:41,954 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:42,100 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:42,173 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:42,173 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:58:43,526 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:58:46,619 DEBUG: [evaluation] start get display img 141
+2024-11-30 16:58:48,843 DEBUG: [evaluation] end get display img 141
+2024-11-30 16:58:48,881 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:50,181 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:50,319 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:50,380 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:50,381 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:58:51,715 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:58:54,994 DEBUG: [evaluation] start get display img 142
+2024-11-30 16:58:57,527 DEBUG: [evaluation] end get display img 142
+2024-11-30 16:58:57,553 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:58:58,857 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:58:59,010 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:58:59,081 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:58:59,081 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:00,537 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:59:03,801 DEBUG: [evaluation] start get display img 143
+2024-11-30 16:59:06,341 DEBUG: [evaluation] end get display img 143
+2024-11-30 16:59:06,379 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:59:07,694 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:59:07,843 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:59:07,912 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:59:07,912 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:09,376 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:59:12,653 DEBUG: [evaluation] start get display img 144
+2024-11-30 16:59:14,889 DEBUG: [evaluation] end get display img 144
+2024-11-30 16:59:14,913 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:59:16,124 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:59:16,287 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:59:16,346 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:59:16,347 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:17,741 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:59:20,899 DEBUG: [evaluation] start get display img 145
+2024-11-30 16:59:22,974 DEBUG: [evaluation] end get display img 145
+2024-11-30 16:59:22,997 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:59:24,240 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:59:24,382 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:59:24,455 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:59:24,455 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:25,937 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:59:29,173 DEBUG: [evaluation] start get display img 146
+2024-11-30 16:59:31,311 DEBUG: [evaluation] end get display img 146
+2024-11-30 16:59:31,335 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:59:32,547 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:59:32,688 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:59:32,757 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:59:32,757 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:34,104 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:59:37,211 DEBUG: [evaluation] start get display img 147
+2024-11-30 16:59:39,280 DEBUG: [evaluation] end get display img 147
+2024-11-30 16:59:39,302 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:59:40,508 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:59:40,648 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:59:40,714 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:59:40,714 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:42,063 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:59:45,187 DEBUG: [evaluation] start get display img 148
+2024-11-30 16:59:47,312 DEBUG: [evaluation] end get display img 148
+2024-11-30 16:59:47,335 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:59:48,516 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:59:48,652 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:59:48,719 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:59:48,719 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:50,089 DEBUG: [evaluation] end cal ssim
+2024-11-30 16:59:53,170 DEBUG: [evaluation] start get display img 149
+2024-11-30 16:59:55,268 DEBUG: [evaluation] end get display img 149
+2024-11-30 16:59:55,290 DEBUG: [evaluation] start get benchmark img
+2024-11-30 16:59:56,573 DEBUG: [evaluation] end get benchmark img
+2024-11-30 16:59:56,723 DEBUG: [evaluation] start cal psnr
+2024-11-30 16:59:56,801 DEBUG: [evaluation] end cal psnr
+2024-11-30 16:59:56,801 DEBUG: [evaluation] start cal ssim
+2024-11-30 16:59:58,189 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:01,419 DEBUG: [evaluation] start get display img 150
+2024-11-30 17:00:03,682 DEBUG: [evaluation] end get display img 150
+2024-11-30 17:00:03,709 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:00:04,997 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:00:05,160 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:00:05,244 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:00:05,244 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:00:06,654 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:09,873 DEBUG: [evaluation] start get display img 151
+2024-11-30 17:00:11,975 DEBUG: [evaluation] end get display img 151
+2024-11-30 17:00:11,998 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:00:13,189 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:00:13,336 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:00:13,397 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:00:13,397 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:00:14,707 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:17,870 DEBUG: [evaluation] start get display img 152
+2024-11-30 17:00:20,040 DEBUG: [evaluation] end get display img 152
+2024-11-30 17:00:20,063 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:00:21,314 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:00:21,448 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:00:21,508 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:00:21,508 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:00:22,864 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:25,995 DEBUG: [evaluation] start get display img 153
+2024-11-30 17:00:28,060 DEBUG: [evaluation] end get display img 153
+2024-11-30 17:00:28,082 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:00:29,335 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:00:29,474 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:00:29,536 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:00:29,536 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:00:30,874 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:34,014 DEBUG: [evaluation] start get display img 154
+2024-11-30 17:00:36,126 DEBUG: [evaluation] end get display img 154
+2024-11-30 17:00:36,148 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:00:37,339 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:00:37,476 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:00:37,537 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:00:37,537 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:00:39,085 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:42,263 DEBUG: [evaluation] start get display img 155
+2024-11-30 17:00:44,327 DEBUG: [evaluation] end get display img 155
+2024-11-30 17:00:44,350 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:00:45,555 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:00:45,686 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:00:45,749 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:00:45,749 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:00:47,048 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:50,244 DEBUG: [evaluation] start get display img 156
+2024-11-30 17:00:52,485 DEBUG: [evaluation] end get display img 156
+2024-11-30 17:00:52,510 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:00:53,726 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:00:53,870 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:00:53,938 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:00:53,938 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:00:55,293 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:00:58,440 DEBUG: [evaluation] start get display img 157
+2024-11-30 17:01:00,580 DEBUG: [evaluation] end get display img 157
+2024-11-30 17:01:00,603 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:01,813 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:01,950 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:02,017 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:02,017 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:01:03,356 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:01:06,573 DEBUG: [evaluation] start get display img 158
+2024-11-30 17:01:08,616 DEBUG: [evaluation] end get display img 158
+2024-11-30 17:01:08,636 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:09,812 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:09,945 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:10,011 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:10,012 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:01:11,384 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:01:14,690 DEBUG: [evaluation] start get display img 159
+2024-11-30 17:01:16,655 DEBUG: [evaluation] end get display img 159
+2024-11-30 17:01:16,673 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:17,914 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:18,053 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:18,119 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:18,119 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:01:19,486 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:01:22,737 DEBUG: [evaluation] start get display img 160
+2024-11-30 17:01:24,858 DEBUG: [evaluation] end get display img 160
+2024-11-30 17:01:24,878 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:26,144 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:26,291 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:26,350 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:26,350 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:01:27,637 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:01:30,839 DEBUG: [evaluation] start get display img 161
+2024-11-30 17:01:32,853 DEBUG: [evaluation] end get display img 161
+2024-11-30 17:01:32,873 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:34,096 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:34,240 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:34,316 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:34,316 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:01:35,602 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:01:38,843 DEBUG: [evaluation] start get display img 162
+2024-11-30 17:01:40,864 DEBUG: [evaluation] end get display img 162
+2024-11-30 17:01:40,884 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:42,274 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:42,410 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:42,478 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:42,479 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:01:43,817 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:01:47,086 DEBUG: [evaluation] start get display img 163
+2024-11-30 17:01:49,065 DEBUG: [evaluation] end get display img 163
+2024-11-30 17:01:49,085 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:50,389 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:50,530 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:50,592 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:50,592 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:01:51,918 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:01:55,275 DEBUG: [evaluation] start get display img 164
+2024-11-30 17:01:57,253 DEBUG: [evaluation] end get display img 164
+2024-11-30 17:01:57,282 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:01:58,498 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:01:58,628 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:01:58,692 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:01:58,692 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:00,046 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:03,361 DEBUG: [evaluation] start get display img 165
+2024-11-30 17:02:05,307 DEBUG: [evaluation] end get display img 165
+2024-11-30 17:02:05,326 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:02:06,542 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:02:06,677 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:02:06,746 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:02:06,746 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:08,072 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:11,339 DEBUG: [evaluation] start get display img 166
+2024-11-30 17:02:13,288 DEBUG: [evaluation] end get display img 166
+2024-11-30 17:02:13,315 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:02:14,639 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:02:14,772 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:02:14,839 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:02:14,839 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:16,165 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:19,394 DEBUG: [evaluation] start get display img 167
+2024-11-30 17:02:21,331 DEBUG: [evaluation] end get display img 167
+2024-11-30 17:02:21,350 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:02:22,595 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:02:22,729 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:02:22,795 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:02:22,795 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:24,114 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:27,374 DEBUG: [evaluation] start get display img 168
+2024-11-30 17:02:29,310 DEBUG: [evaluation] end get display img 168
+2024-11-30 17:02:29,335 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:02:30,550 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:02:30,680 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:02:30,749 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:02:30,749 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:32,072 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:35,413 DEBUG: [evaluation] start get display img 169
+2024-11-30 17:02:37,496 DEBUG: [evaluation] end get display img 169
+2024-11-30 17:02:37,519 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:02:38,744 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:02:38,875 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:02:38,943 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:02:38,944 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:40,273 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:43,551 DEBUG: [evaluation] start get display img 170
+2024-11-30 17:02:45,636 DEBUG: [evaluation] end get display img 170
+2024-11-30 17:02:45,662 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:02:46,920 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:02:47,057 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:02:47,125 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:02:47,125 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:48,515 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:51,799 DEBUG: [evaluation] start get display img 171
+2024-11-30 17:02:53,859 DEBUG: [evaluation] end get display img 171
+2024-11-30 17:02:53,882 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:02:55,145 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:02:55,296 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:02:55,374 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:02:55,374 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:02:56,705 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:02:59,936 DEBUG: [evaluation] start get display img 172
+2024-11-30 17:03:02,067 DEBUG: [evaluation] end get display img 172
+2024-11-30 17:03:02,090 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:03:03,313 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:03:03,448 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:03:03,507 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:03:03,507 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:03:04,843 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:03:08,088 DEBUG: [evaluation] start get display img 173
+2024-11-30 17:03:10,199 DEBUG: [evaluation] end get display img 173
+2024-11-30 17:03:10,220 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:03:11,447 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:03:11,581 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:03:11,644 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:03:11,644 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:03:13,007 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:03:16,347 DEBUG: [evaluation] start get display img 174
+2024-11-30 17:03:18,471 DEBUG: [evaluation] end get display img 174
+2024-11-30 17:03:18,494 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:03:19,708 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:03:19,846 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:03:19,912 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:03:19,912 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:03:21,272 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:03:24,538 DEBUG: [evaluation] start get display img 175
+2024-11-30 17:03:26,682 DEBUG: [evaluation] end get display img 175
+2024-11-30 17:03:26,705 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:03:27,921 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:03:28,059 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:03:28,126 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:03:28,126 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:03:29,449 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:03:32,689 DEBUG: [evaluation] start get display img 176
+2024-11-30 17:03:34,864 DEBUG: [evaluation] end get display img 176
+2024-11-30 17:03:34,887 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:03:36,109 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:03:36,251 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:03:36,325 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:03:36,325 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:03:37,686 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:03:40,974 DEBUG: [evaluation] start get display img 177
+2024-11-30 17:03:43,136 DEBUG: [evaluation] end get display img 177
+2024-11-30 17:03:43,159 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:03:44,411 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:03:44,551 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:03:44,615 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:03:44,616 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:03:45,944 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:03:49,322 DEBUG: [evaluation] start get display img 178
+2024-11-30 17:03:51,449 DEBUG: [evaluation] end get display img 178
+2024-11-30 17:03:51,473 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:03:52,688 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:03:52,826 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:03:52,893 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:03:52,893 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:03:54,209 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:03:57,501 DEBUG: [evaluation] start get display img 179
+2024-11-30 17:03:59,614 DEBUG: [evaluation] end get display img 179
+2024-11-30 17:03:59,636 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:00,854 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:00,988 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:01,055 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:01,055 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:02,368 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:04:05,305 DEBUG: [evaluation] start get display img 180
+2024-11-30 17:04:07,391 DEBUG: [evaluation] end get display img 180
+2024-11-30 17:04:07,410 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:08,625 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:08,759 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:08,826 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:08,826 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:10,110 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:04:13,130 DEBUG: [evaluation] start get display img 181
+2024-11-30 17:04:15,192 DEBUG: [evaluation] end get display img 181
+2024-11-30 17:04:15,210 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:16,474 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:16,615 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:16,679 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:16,679 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:18,037 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:04:21,127 DEBUG: [evaluation] start get display img 182
+2024-11-30 17:04:23,223 DEBUG: [evaluation] end get display img 182
+2024-11-30 17:04:23,243 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:24,482 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:24,610 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:24,672 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:24,672 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:25,994 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:04:29,127 DEBUG: [evaluation] start get display img 183
+2024-11-30 17:04:31,230 DEBUG: [evaluation] end get display img 183
+2024-11-30 17:04:31,251 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:32,510 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:32,638 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:32,702 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:32,702 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:34,033 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:04:37,099 DEBUG: [evaluation] start get display img 184
+2024-11-30 17:04:39,175 DEBUG: [evaluation] end get display img 184
+2024-11-30 17:04:39,193 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:40,442 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:40,574 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:40,633 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:40,634 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:41,928 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:04:45,047 DEBUG: [evaluation] start get display img 185
+2024-11-30 17:04:47,202 DEBUG: [evaluation] end get display img 185
+2024-11-30 17:04:47,223 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:48,496 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:48,634 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:48,697 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:48,697 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:50,044 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:04:53,298 DEBUG: [evaluation] start get display img 186
+2024-11-30 17:04:55,407 DEBUG: [evaluation] end get display img 186
+2024-11-30 17:04:55,426 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:04:56,660 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:04:56,798 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:04:56,865 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:04:56,865 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:04:58,169 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:05:01,334 DEBUG: [evaluation] start get display img 187
+2024-11-30 17:05:03,546 DEBUG: [evaluation] end get display img 187
+2024-11-30 17:05:03,565 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:05:04,927 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:05:05,067 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:05:05,139 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:05:05,139 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:05:06,497 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:05:09,749 DEBUG: [evaluation] start get display img 188
+2024-11-30 17:05:11,794 DEBUG: [evaluation] end get display img 188
+2024-11-30 17:05:11,819 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:05:13,174 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:05:13,324 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:05:13,399 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:05:13,399 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:05:14,765 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:05:18,094 DEBUG: [evaluation] start get display img 189
+2024-11-30 17:05:20,199 DEBUG: [evaluation] end get display img 189
+2024-11-30 17:05:20,219 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:05:21,530 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:05:21,663 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:05:21,730 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:05:21,731 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:05:23,102 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:05:26,263 DEBUG: [evaluation] start get display img 190
+2024-11-30 17:05:28,244 DEBUG: [evaluation] end get display img 190
+2024-11-30 17:05:28,262 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:05:29,578 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:05:29,711 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:05:29,775 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:05:29,775 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:05:31,116 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:05:34,421 DEBUG: [evaluation] start get display img 191
+2024-11-30 17:05:36,372 DEBUG: [evaluation] end get display img 191
+2024-11-30 17:05:36,393 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:05:37,689 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:05:37,828 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:05:37,904 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:05:37,904 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:05:39,288 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:05:42,688 DEBUG: [evaluation] start get display img 192
+2024-11-30 17:05:44,684 DEBUG: [evaluation] end get display img 192
+2024-11-30 17:05:44,705 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:05:46,064 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:05:46,223 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:05:46,300 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:05:46,300 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:05:47,770 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:05:51,298 DEBUG: [evaluation] start get display img 193
+2024-11-30 17:05:53,522 DEBUG: [evaluation] end get display img 193
+2024-11-30 17:05:53,545 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:05:54,945 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:05:55,094 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:05:55,167 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:05:55,167 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:05:56,679 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:06:00,162 DEBUG: [evaluation] start get display img 194
+2024-11-30 17:06:02,227 DEBUG: [evaluation] end get display img 194
+2024-11-30 17:06:02,246 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:06:03,719 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:06:03,869 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:06:03,941 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:06:03,942 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:06:05,442 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:06:08,930 DEBUG: [evaluation] start get display img 195
+2024-11-30 17:06:10,961 DEBUG: [evaluation] end get display img 195
+2024-11-30 17:06:10,985 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:06:12,253 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:06:12,399 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:06:12,472 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:06:12,472 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:06:13,948 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:06:17,370 DEBUG: [evaluation] start get display img 196
+2024-11-30 17:06:19,776 DEBUG: [evaluation] end get display img 196
+2024-11-30 17:06:19,802 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:06:21,159 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:06:21,320 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:06:21,400 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:06:21,400 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:06:22,877 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:06:26,313 DEBUG: [evaluation] start get display img 197
+2024-11-30 17:06:28,575 DEBUG: [evaluation] end get display img 197
+2024-11-30 17:06:28,600 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:06:29,962 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:06:30,122 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:06:30,197 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:06:30,197 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:06:31,692 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:06:35,361 DEBUG: [evaluation] start get display img 198
+2024-11-30 17:06:37,565 DEBUG: [evaluation] end get display img 198
+2024-11-30 17:06:37,590 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:06:38,934 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:06:39,086 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:06:39,159 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:06:39,159 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:06:40,556 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:06:43,852 DEBUG: [evaluation] start get display img 199
+2024-11-30 17:06:45,908 DEBUG: [evaluation] end get display img 199
+2024-11-30 17:06:45,933 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:06:47,204 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:06:47,349 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:06:47,419 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:06:47,419 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:06:48,854 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:06:52,280 DEBUG: [evaluation] start get display img 200
+2024-11-30 17:06:54,404 DEBUG: [evaluation] end get display img 200
+2024-11-30 17:06:54,429 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:06:55,942 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:06:56,096 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:06:56,173 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:06:56,173 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:06:57,645 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:07:01,129 DEBUG: [evaluation] start get display img 201
+2024-11-30 17:07:03,312 DEBUG: [evaluation] end get display img 201
+2024-11-30 17:07:03,340 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:07:04,717 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:07:04,855 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:07:04,928 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:07:04,928 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:07:06,375 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:07:09,864 DEBUG: [evaluation] start get display img 202
+2024-11-30 17:07:12,163 DEBUG: [evaluation] end get display img 202
+2024-11-30 17:07:12,191 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:07:13,551 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:07:13,710 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:07:13,776 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:07:13,776 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:07:15,247 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:07:18,950 DEBUG: [evaluation] start get display img 203
+2024-11-30 17:07:21,208 DEBUG: [evaluation] end get display img 203
+2024-11-30 17:07:21,236 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:07:22,661 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:07:22,801 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:07:22,868 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:07:22,868 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:07:24,358 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:07:27,841 DEBUG: [evaluation] start get display img 204
+2024-11-30 17:07:29,955 DEBUG: [evaluation] end get display img 204
+2024-11-30 17:07:29,978 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:07:31,393 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:07:31,535 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:07:31,618 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:07:31,618 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:07:32,988 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:07:36,451 DEBUG: [evaluation] start get display img 205
+2024-11-30 17:07:38,609 DEBUG: [evaluation] end get display img 205
+2024-11-30 17:07:38,632 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:07:39,962 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:07:40,112 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:07:40,187 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:07:40,187 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:07:41,507 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:07:44,887 DEBUG: [evaluation] start get display img 206
+2024-11-30 17:07:46,975 DEBUG: [evaluation] end get display img 206
+2024-11-30 17:07:47,003 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:07:48,318 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:07:48,458 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:07:48,524 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:07:48,524 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:07:49,815 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:07:53,158 DEBUG: [evaluation] start get display img 207
+2024-11-30 17:07:55,273 DEBUG: [evaluation] end get display img 207
+2024-11-30 17:07:55,295 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:07:56,550 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:07:56,688 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:07:56,750 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:07:56,750 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:07:58,091 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:08:01,579 DEBUG: [evaluation] start get display img 208
+2024-11-30 17:08:03,679 DEBUG: [evaluation] end get display img 208
+2024-11-30 17:08:03,703 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:08:04,993 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:08:05,145 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:08:05,218 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:08:05,218 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:08:06,574 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:08:10,127 DEBUG: [evaluation] start get display img 209
+2024-11-30 17:08:12,349 DEBUG: [evaluation] end get display img 209
+2024-11-30 17:08:12,375 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:08:13,744 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:08:13,889 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:08:13,968 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:08:13,968 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:08:15,427 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:08:19,134 DEBUG: [evaluation] start get display img 210
+2024-11-30 17:08:21,180 DEBUG: [evaluation] end get display img 210
+2024-11-30 17:08:21,203 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:08:22,448 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:08:22,589 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:08:22,663 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:08:22,663 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:08:24,018 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:08:27,503 DEBUG: [evaluation] start get display img 211
+2024-11-30 17:08:29,621 DEBUG: [evaluation] end get display img 211
+2024-11-30 17:08:29,654 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:08:30,893 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:08:31,031 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:08:31,101 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:08:31,101 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:08:32,439 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:08:35,835 DEBUG: [evaluation] start get display img 212
+2024-11-30 17:08:37,891 DEBUG: [evaluation] end get display img 212
+2024-11-30 17:08:37,914 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:08:39,214 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:08:39,355 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:08:39,421 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:08:39,421 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:08:40,719 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:08:44,190 DEBUG: [evaluation] start get display img 213
+2024-11-30 17:08:46,214 DEBUG: [evaluation] end get display img 213
+2024-11-30 17:08:46,238 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:08:47,548 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:08:47,693 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:08:47,755 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:08:47,755 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:08:49,070 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:08:52,550 DEBUG: [evaluation] start get display img 214
+2024-11-30 17:08:54,574 DEBUG: [evaluation] end get display img 214
+2024-11-30 17:08:54,596 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:08:55,837 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:08:55,966 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:08:56,034 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:08:56,034 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:08:57,355 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:09:00,838 DEBUG: [evaluation] start get display img 215
+2024-11-30 17:09:02,896 DEBUG: [evaluation] end get display img 215
+2024-11-30 17:09:02,919 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:09:04,203 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:09:04,346 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:09:04,413 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:09:04,413 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:09:05,732 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:09:09,267 DEBUG: [evaluation] start get display img 216
+2024-11-30 17:09:11,370 DEBUG: [evaluation] end get display img 216
+2024-11-30 17:09:11,395 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:09:12,697 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:09:12,829 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:09:12,909 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:09:12,910 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:09:14,261 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:09:17,806 DEBUG: [evaluation] start get display img 217
+2024-11-30 17:09:19,913 DEBUG: [evaluation] end get display img 217
+2024-11-30 17:09:19,936 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:09:21,314 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:09:21,455 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:09:21,523 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:09:21,524 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:09:22,878 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:09:26,447 DEBUG: [evaluation] start get display img 218
+2024-11-30 17:09:28,780 DEBUG: [evaluation] end get display img 218
+2024-11-30 17:09:28,803 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:09:30,099 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:09:30,237 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:09:30,305 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:09:30,305 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:09:31,673 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:09:35,305 DEBUG: [evaluation] start get display img 219
+2024-11-30 17:09:37,361 DEBUG: [evaluation] end get display img 219
+2024-11-30 17:09:37,384 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:09:38,733 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:09:38,858 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:09:38,920 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:09:38,921 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:09:40,245 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:09:44,293 DEBUG: [evaluation] start get display img 220
+2024-11-30 17:09:46,317 DEBUG: [evaluation] end get display img 220
+2024-11-30 17:09:46,339 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:09:47,647 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:09:47,774 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:09:47,834 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:09:47,835 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:09:49,185 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:09:52,757 DEBUG: [evaluation] start get display img 221
+2024-11-30 17:09:54,834 DEBUG: [evaluation] end get display img 221
+2024-11-30 17:09:54,857 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:09:56,215 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:09:56,353 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:09:56,420 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:09:56,420 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:09:57,763 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:10:01,331 DEBUG: [evaluation] start get display img 222
+2024-11-30 17:10:03,435 DEBUG: [evaluation] end get display img 222
+2024-11-30 17:10:03,459 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:10:04,733 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:10:04,862 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:10:04,925 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:10:04,926 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:10:06,275 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:10:09,850 DEBUG: [evaluation] start get display img 223
+2024-11-30 17:10:11,873 DEBUG: [evaluation] end get display img 223
+2024-11-30 17:10:11,895 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:10:13,176 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:10:13,322 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:10:13,400 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:10:13,400 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:10:14,817 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:10:18,320 DEBUG: [evaluation] start get display img 224
+2024-11-30 17:10:20,416 DEBUG: [evaluation] end get display img 224
+2024-11-30 17:10:20,441 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:10:21,776 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:10:21,902 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:10:21,969 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:10:21,969 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:10:23,379 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:10:27,021 DEBUG: [evaluation] start get display img 225
+2024-11-30 17:10:29,116 DEBUG: [evaluation] end get display img 225
+2024-11-30 17:10:29,140 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:10:30,538 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:10:30,674 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:10:30,749 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:10:30,749 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:10:32,055 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:10:35,696 DEBUG: [evaluation] start get display img 226
+2024-11-30 17:10:37,783 DEBUG: [evaluation] end get display img 226
+2024-11-30 17:10:37,807 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:10:39,063 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:10:39,199 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:10:39,268 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:10:39,269 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:10:40,648 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:10:44,267 DEBUG: [evaluation] start get display img 227
+2024-11-30 17:10:46,319 DEBUG: [evaluation] end get display img 227
+2024-11-30 17:10:46,341 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:10:47,671 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:10:47,807 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:10:47,870 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:10:47,870 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:10:49,293 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:10:52,996 DEBUG: [evaluation] start get display img 228
+2024-11-30 17:10:55,273 DEBUG: [evaluation] end get display img 228
+2024-11-30 17:10:55,303 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:10:56,672 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:10:56,819 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:10:56,880 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:10:56,880 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:10:58,219 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:11:01,886 DEBUG: [evaluation] start get display img 229
+2024-11-30 17:11:04,008 DEBUG: [evaluation] end get display img 229
+2024-11-30 17:11:04,031 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:11:05,407 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:11:05,541 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:11:05,608 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:11:05,608 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:11:06,917 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:11:10,794 DEBUG: [evaluation] start get display img 230
+2024-11-30 17:11:12,942 DEBUG: [evaluation] end get display img 230
+2024-11-30 17:11:12,967 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:11:14,334 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:11:14,472 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:11:14,540 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:11:14,540 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:11:15,921 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:11:19,624 DEBUG: [evaluation] start get display img 231
+2024-11-30 17:11:21,809 DEBUG: [evaluation] end get display img 231
+2024-11-30 17:11:21,832 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:11:23,169 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:11:23,305 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:11:23,374 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:11:23,374 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:11:24,780 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:11:28,633 DEBUG: [evaluation] start get display img 232
+2024-11-30 17:11:30,766 DEBUG: [evaluation] end get display img 232
+2024-11-30 17:11:30,791 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:11:32,081 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:11:32,216 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:11:32,285 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:11:32,285 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:11:33,687 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:11:37,452 DEBUG: [evaluation] start get display img 233
+2024-11-30 17:11:39,641 DEBUG: [evaluation] end get display img 233
+2024-11-30 17:11:39,666 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:11:41,043 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:11:41,189 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:11:41,264 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:11:41,265 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:11:42,685 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:11:46,317 DEBUG: [evaluation] start get display img 234
+2024-11-30 17:11:48,387 DEBUG: [evaluation] end get display img 234
+2024-11-30 17:11:48,415 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:11:49,888 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:11:50,030 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:11:50,114 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:11:50,114 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:11:51,451 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:11:55,320 DEBUG: [evaluation] start get display img 235
+2024-11-30 17:11:57,573 DEBUG: [evaluation] end get display img 235
+2024-11-30 17:11:57,596 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:11:58,872 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:11:59,006 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:11:59,072 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:11:59,072 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:00,423 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:12:04,026 DEBUG: [evaluation] start get display img 236
+2024-11-30 17:12:06,018 DEBUG: [evaluation] end get display img 236
+2024-11-30 17:12:06,041 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:12:07,274 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:12:07,402 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:12:07,471 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:12:07,471 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:08,841 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:12:12,367 DEBUG: [evaluation] start get display img 237
+2024-11-30 17:12:14,380 DEBUG: [evaluation] end get display img 237
+2024-11-30 17:12:14,402 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:12:15,697 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:12:15,841 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:12:15,901 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:12:15,901 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:17,193 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:12:20,855 DEBUG: [evaluation] start get display img 238
+2024-11-30 17:12:22,845 DEBUG: [evaluation] end get display img 238
+2024-11-30 17:12:22,866 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:12:24,104 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:12:24,236 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:12:24,298 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:12:24,298 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:25,577 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:12:29,141 DEBUG: [evaluation] start get display img 239
+2024-11-30 17:12:31,116 DEBUG: [evaluation] end get display img 239
+2024-11-30 17:12:31,138 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:12:32,366 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:12:32,500 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:12:32,564 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:12:32,564 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:33,851 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:12:36,774 DEBUG: [evaluation] start get display img 240
+2024-11-30 17:12:38,980 DEBUG: [evaluation] end get display img 240
+2024-11-30 17:12:39,001 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:12:40,284 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:12:40,422 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:12:40,497 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:12:40,497 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:41,803 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:12:44,690 DEBUG: [evaluation] start get display img 241
+2024-11-30 17:12:46,867 DEBUG: [evaluation] end get display img 241
+2024-11-30 17:12:46,885 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:12:48,199 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:12:48,355 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:12:48,432 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:12:48,432 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:49,786 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:12:52,706 DEBUG: [evaluation] start get display img 242
+2024-11-30 17:12:55,071 DEBUG: [evaluation] end get display img 242
+2024-11-30 17:12:55,091 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:12:56,364 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:12:56,499 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:12:56,566 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:12:56,566 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:12:57,855 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:00,768 DEBUG: [evaluation] start get display img 243
+2024-11-30 17:13:02,907 DEBUG: [evaluation] end get display img 243
+2024-11-30 17:13:02,925 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:13:04,195 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:13:04,336 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:13:04,404 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:13:04,404 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:13:05,755 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:08,765 DEBUG: [evaluation] start get display img 244
+2024-11-30 17:13:10,918 DEBUG: [evaluation] end get display img 244
+2024-11-30 17:13:10,936 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:13:12,163 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:13:12,297 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:13:12,365 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:13:12,365 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:13:13,649 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:16,607 DEBUG: [evaluation] start get display img 245
+2024-11-30 17:13:18,811 DEBUG: [evaluation] end get display img 245
+2024-11-30 17:13:18,831 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:13:20,127 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:13:20,269 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:13:20,335 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:13:20,335 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:13:21,688 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:24,822 DEBUG: [evaluation] start get display img 246
+2024-11-30 17:13:27,023 DEBUG: [evaluation] end get display img 246
+2024-11-30 17:13:27,044 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:13:28,338 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:13:28,487 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:13:28,575 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:13:28,575 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:13:30,126 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:33,153 DEBUG: [evaluation] start get display img 247
+2024-11-30 17:13:35,305 DEBUG: [evaluation] end get display img 247
+2024-11-30 17:13:35,324 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:13:36,612 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:13:36,760 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:13:36,828 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:13:36,828 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:13:38,112 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:41,106 DEBUG: [evaluation] start get display img 248
+2024-11-30 17:13:43,220 DEBUG: [evaluation] end get display img 248
+2024-11-30 17:13:43,237 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:13:44,465 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:13:44,591 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:13:44,654 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:13:44,654 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:13:45,951 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:49,010 DEBUG: [evaluation] start get display img 249
+2024-11-30 17:13:51,176 DEBUG: [evaluation] end get display img 249
+2024-11-30 17:13:51,194 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:13:52,476 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:13:52,609 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:13:52,679 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:13:52,679 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:13:54,043 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:13:57,209 DEBUG: [evaluation] start get display img 250
+2024-11-30 17:13:59,312 DEBUG: [evaluation] end get display img 250
+2024-11-30 17:13:59,332 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:00,585 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:00,721 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:00,790 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:00,790 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:02,101 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:14:05,096 DEBUG: [evaluation] start get display img 251
+2024-11-30 17:14:07,223 DEBUG: [evaluation] end get display img 251
+2024-11-30 17:14:07,246 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:08,472 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:08,627 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:08,698 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:08,698 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:10,002 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:14:13,137 DEBUG: [evaluation] start get display img 252
+2024-11-30 17:14:15,270 DEBUG: [evaluation] end get display img 252
+2024-11-30 17:14:15,290 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:16,553 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:16,692 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:16,760 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:16,760 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:18,026 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:14:21,057 DEBUG: [evaluation] start get display img 253
+2024-11-30 17:14:23,152 DEBUG: [evaluation] end get display img 253
+2024-11-30 17:14:23,170 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:24,434 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:24,569 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:24,639 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:24,640 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:25,949 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:14:28,972 DEBUG: [evaluation] start get display img 254
+2024-11-30 17:14:31,075 DEBUG: [evaluation] end get display img 254
+2024-11-30 17:14:31,097 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:32,331 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:32,465 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:32,531 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:32,531 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:33,842 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:14:36,876 DEBUG: [evaluation] start get display img 255
+2024-11-30 17:14:39,215 DEBUG: [evaluation] end get display img 255
+2024-11-30 17:14:39,239 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:40,492 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:40,630 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:40,696 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:40,696 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:42,003 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:14:45,065 DEBUG: [evaluation] start get display img 256
+2024-11-30 17:14:47,099 DEBUG: [evaluation] end get display img 256
+2024-11-30 17:14:47,115 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:48,373 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:48,514 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:48,581 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:48,581 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:49,890 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:14:53,012 DEBUG: [evaluation] start get display img 257
+2024-11-30 17:14:55,185 DEBUG: [evaluation] end get display img 257
+2024-11-30 17:14:55,205 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:14:56,503 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:14:56,643 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:14:56,729 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:14:56,729 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:14:58,115 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:01,353 DEBUG: [evaluation] start get display img 258
+2024-11-30 17:15:03,486 DEBUG: [evaluation] end get display img 258
+2024-11-30 17:15:03,507 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:15:04,809 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:15:04,957 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:15:05,021 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:15:05,021 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:15:06,366 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:09,557 DEBUG: [evaluation] start get display img 259
+2024-11-30 17:15:11,727 DEBUG: [evaluation] end get display img 259
+2024-11-30 17:15:11,747 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:15:13,152 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:15:13,312 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:15:13,391 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:15:13,391 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:15:14,878 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:18,140 DEBUG: [evaluation] start get display img 260
+2024-11-30 17:15:20,236 DEBUG: [evaluation] end get display img 260
+2024-11-30 17:15:20,255 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:15:21,558 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:15:21,702 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:15:21,771 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:15:21,771 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:15:23,169 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:26,416 DEBUG: [evaluation] start get display img 261
+2024-11-30 17:15:28,443 DEBUG: [evaluation] end get display img 261
+2024-11-30 17:15:28,462 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:15:29,731 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:15:29,872 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:15:29,942 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:15:29,942 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:15:31,244 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:34,485 DEBUG: [evaluation] start get display img 262
+2024-11-30 17:15:36,572 DEBUG: [evaluation] end get display img 262
+2024-11-30 17:15:36,591 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:15:37,860 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:15:38,004 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:15:38,067 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:15:38,067 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:15:39,465 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:42,643 DEBUG: [evaluation] start get display img 263
+2024-11-30 17:15:44,614 DEBUG: [evaluation] end get display img 263
+2024-11-30 17:15:44,635 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:15:45,937 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:15:46,088 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:15:46,158 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:15:46,158 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:15:47,520 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:50,665 DEBUG: [evaluation] start get display img 264
+2024-11-30 17:15:52,521 DEBUG: [evaluation] end get display img 264
+2024-11-30 17:15:52,539 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:15:53,847 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:15:53,998 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:15:54,062 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:15:54,062 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:15:55,356 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:15:58,515 DEBUG: [evaluation] start get display img 265
+2024-11-30 17:16:00,399 DEBUG: [evaluation] end get display img 265
+2024-11-30 17:16:00,421 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:01,715 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:01,851 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:01,921 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:01,921 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:16:03,182 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:16:06,346 DEBUG: [evaluation] start get display img 266
+2024-11-30 17:16:08,289 DEBUG: [evaluation] end get display img 266
+2024-11-30 17:16:08,308 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:09,635 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:09,777 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:09,851 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:09,851 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:16:11,187 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:16:14,416 DEBUG: [evaluation] start get display img 267
+2024-11-30 17:16:16,421 DEBUG: [evaluation] end get display img 267
+2024-11-30 17:16:16,440 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:17,767 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:17,919 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:17,989 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:17,989 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:16:19,362 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:16:22,632 DEBUG: [evaluation] start get display img 268
+2024-11-30 17:16:24,948 DEBUG: [evaluation] end get display img 268
+2024-11-30 17:16:24,968 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:26,272 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:26,414 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:26,483 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:26,483 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:16:27,791 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:16:31,016 DEBUG: [evaluation] start get display img 269
+2024-11-30 17:16:32,938 DEBUG: [evaluation] end get display img 269
+2024-11-30 17:16:32,955 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:34,216 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:34,352 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:34,417 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:34,417 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:16:35,693 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:16:39,001 DEBUG: [evaluation] start get display img 270
+2024-11-30 17:16:40,933 DEBUG: [evaluation] end get display img 270
+2024-11-30 17:16:40,950 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:42,274 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:42,428 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:42,503 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:42,503 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:16:43,835 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:16:47,194 DEBUG: [evaluation] start get display img 271
+2024-11-30 17:16:49,232 DEBUG: [evaluation] end get display img 271
+2024-11-30 17:16:49,253 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:50,576 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:50,721 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:50,790 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:50,790 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:16:52,091 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:16:55,428 DEBUG: [evaluation] start get display img 272
+2024-11-30 17:16:57,347 DEBUG: [evaluation] end get display img 272
+2024-11-30 17:16:57,365 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:16:58,634 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:16:58,778 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:16:58,844 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:16:58,845 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:00,197 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:17:03,458 DEBUG: [evaluation] start get display img 273
+2024-11-30 17:17:05,356 DEBUG: [evaluation] end get display img 273
+2024-11-30 17:17:05,372 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:17:06,688 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:17:06,826 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:17:06,893 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:17:06,893 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:08,188 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:17:11,514 DEBUG: [evaluation] start get display img 274
+2024-11-30 17:17:13,414 DEBUG: [evaluation] end get display img 274
+2024-11-30 17:17:13,432 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:17:14,718 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:17:14,852 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:17:14,921 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:17:14,921 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:16,213 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:17:19,475 DEBUG: [evaluation] start get display img 275
+2024-11-30 17:17:21,400 DEBUG: [evaluation] end get display img 275
+2024-11-30 17:17:21,420 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:17:22,749 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:17:22,889 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:17:22,949 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:17:22,949 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:24,454 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:17:27,808 DEBUG: [evaluation] start get display img 276
+2024-11-30 17:17:29,742 DEBUG: [evaluation] end get display img 276
+2024-11-30 17:17:29,767 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:17:31,103 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:17:31,248 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:17:31,309 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:17:31,309 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:32,581 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:17:35,879 DEBUG: [evaluation] start get display img 277
+2024-11-30 17:17:37,737 DEBUG: [evaluation] end get display img 277
+2024-11-30 17:17:37,752 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:17:39,090 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:17:39,249 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:17:39,325 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:17:39,325 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:40,648 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:17:43,960 DEBUG: [evaluation] start get display img 278
+2024-11-30 17:17:45,848 DEBUG: [evaluation] end get display img 278
+2024-11-30 17:17:45,864 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:17:47,163 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:17:47,293 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:17:47,351 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:17:47,351 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:48,616 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:17:51,923 DEBUG: [evaluation] start get display img 279
+2024-11-30 17:17:53,889 DEBUG: [evaluation] end get display img 279
+2024-11-30 17:17:53,917 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:17:55,304 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:17:55,437 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:17:55,494 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:17:55,494 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:17:56,797 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:00,133 DEBUG: [evaluation] start get display img 280
+2024-11-30 17:18:02,111 DEBUG: [evaluation] end get display img 280
+2024-11-30 17:18:02,139 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:03,413 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:03,544 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:03,600 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:03,600 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:18:05,069 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:08,451 DEBUG: [evaluation] start get display img 281
+2024-11-30 17:18:10,370 DEBUG: [evaluation] end get display img 281
+2024-11-30 17:18:10,386 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:11,682 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:11,810 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:11,866 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:11,866 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:18:13,248 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:16,491 DEBUG: [evaluation] start get display img 282
+2024-11-30 17:18:18,341 DEBUG: [evaluation] end get display img 282
+2024-11-30 17:18:18,359 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:19,622 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:19,753 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:19,809 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:19,809 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:18:21,046 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:24,324 DEBUG: [evaluation] start get display img 283
+2024-11-30 17:18:26,141 DEBUG: [evaluation] end get display img 283
+2024-11-30 17:18:26,164 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:27,421 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:27,551 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:27,609 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:27,609 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:18:28,878 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:32,089 DEBUG: [evaluation] start get display img 284
+2024-11-30 17:18:33,910 DEBUG: [evaluation] end get display img 284
+2024-11-30 17:18:33,927 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:35,191 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:35,319 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:35,378 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:35,378 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:18:36,603 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:39,923 DEBUG: [evaluation] start get display img 285
+2024-11-30 17:18:41,699 DEBUG: [evaluation] end get display img 285
+2024-11-30 17:18:41,717 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:43,024 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:43,161 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:43,226 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:43,226 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:18:44,474 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:47,658 DEBUG: [evaluation] start get display img 286
+2024-11-30 17:18:49,493 DEBUG: [evaluation] end get display img 286
+2024-11-30 17:18:49,512 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:50,782 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:50,907 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:50,963 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:50,963 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:18:52,204 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:18:55,539 DEBUG: [evaluation] start get display img 287
+2024-11-30 17:18:57,385 DEBUG: [evaluation] end get display img 287
+2024-11-30 17:18:57,403 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:18:58,637 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:18:58,762 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:18:58,820 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:18:58,820 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:00,098 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:03,352 DEBUG: [evaluation] start get display img 288
+2024-11-30 17:19:05,311 DEBUG: [evaluation] end get display img 288
+2024-11-30 17:19:05,329 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:19:06,567 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:19:06,692 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:19:06,752 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:19:06,752 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:08,011 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:11,230 DEBUG: [evaluation] start get display img 289
+2024-11-30 17:19:13,121 DEBUG: [evaluation] end get display img 289
+2024-11-30 17:19:13,147 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:19:14,473 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:19:14,608 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:19:14,667 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:19:14,667 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:15,898 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:19,143 DEBUG: [evaluation] start get display img 290
+2024-11-30 17:19:21,081 DEBUG: [evaluation] end get display img 290
+2024-11-30 17:19:21,099 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:19:22,364 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:19:22,485 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:19:22,543 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:19:22,543 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:23,952 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:27,268 DEBUG: [evaluation] start get display img 291
+2024-11-30 17:19:29,057 DEBUG: [evaluation] end get display img 291
+2024-11-30 17:19:29,077 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:19:30,373 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:19:30,500 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:19:30,556 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:19:30,556 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:31,779 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:35,015 DEBUG: [evaluation] start get display img 292
+2024-11-30 17:19:36,816 DEBUG: [evaluation] end get display img 292
+2024-11-30 17:19:36,835 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:19:38,143 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:19:38,283 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:19:38,353 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:19:38,353 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:39,561 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:42,829 DEBUG: [evaluation] start get display img 293
+2024-11-30 17:19:44,690 DEBUG: [evaluation] end get display img 293
+2024-11-30 17:19:44,709 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:19:46,002 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:19:46,130 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:19:46,189 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:19:46,189 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:47,420 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:50,667 DEBUG: [evaluation] start get display img 294
+2024-11-30 17:19:52,484 DEBUG: [evaluation] end get display img 294
+2024-11-30 17:19:52,504 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:19:53,743 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:19:53,871 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:19:53,928 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:19:53,928 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:19:55,133 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:19:58,459 DEBUG: [evaluation] start get display img 295
+2024-11-30 17:20:00,248 DEBUG: [evaluation] end get display img 295
+2024-11-30 17:20:00,266 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:20:01,599 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:20:01,726 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:20:01,783 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:20:01,783 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:20:03,000 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:20:06,565 DEBUG: [evaluation] start get display img 296
+2024-11-30 17:20:08,500 DEBUG: [evaluation] end get display img 296
+2024-11-30 17:20:08,518 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:20:09,853 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:20:09,992 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:20:10,048 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:20:10,048 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:20:11,274 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:20:14,832 DEBUG: [evaluation] start get display img 297
+2024-11-30 17:20:16,711 DEBUG: [evaluation] end get display img 297
+2024-11-30 17:20:16,730 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:20:18,091 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:20:18,228 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:20:18,286 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:20:18,287 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:20:19,571 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:20:23,180 DEBUG: [evaluation] start get display img 298
+2024-11-30 17:20:24,980 DEBUG: [evaluation] end get display img 298
+2024-11-30 17:20:25,004 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:20:26,405 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:20:26,541 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:20:26,598 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:20:26,599 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:20:27,899 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:20:31,502 DEBUG: [evaluation] start get display img 299
+2024-11-30 17:20:33,298 DEBUG: [evaluation] end get display img 299
+2024-11-30 17:20:33,316 DEBUG: [evaluation] start get benchmark img
+2024-11-30 17:20:34,681 DEBUG: [evaluation] end get benchmark img
+2024-11-30 17:20:34,821 DEBUG: [evaluation] start cal psnr
+2024-11-30 17:20:34,879 DEBUG: [evaluation] end cal psnr
+2024-11-30 17:20:34,879 DEBUG: [evaluation] start cal ssim
+2024-11-30 17:20:36,094 DEBUG: [evaluation] end cal ssim
+2024-11-30 17:20:36,103 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 30 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y benchmark.mp4 -loglevel error
+2024-11-30 17:20:40,668 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 30 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y output.mp4 -loglevel error
+2024-11-30 17:20:46,499 INFO: on_demand evaluation end.
+2024-11-30 17:20:46,507 INFO: [evaluation] end

@@ -1,0 +1,43 @@
+2024-12-17 10:23:50,170 INFO: [preprocessing data] start
+2024-12-17 10:23:50,200 INFO: [create data] OnDemandData is created
+2024-12-17 10:23:50,200 INFO: [generating chunk] start
+2024-12-17 10:23:50,200 INFO: [generating chunk] chunk_idx=0
+2024-12-17 10:23:50,200 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -i E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\simple3.mp4 -threads 6 -preset faster -c:v libx264 -bf 0 -ss 00:00:00 -to 00:01:18 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\chunk_0000.mp4 -loglevel error
+2024-12-17 10:24:39,358 INFO: [generating chunk] end
+2024-12-17 10:25:05,619 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_000.mp4 -loglevel error
+2024-12-17 10:25:19,332 INFO: [delete the generated png images]
+2024-12-17 10:25:45,427 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_001.mp4 -loglevel error
+2024-12-17 10:25:57,850 INFO: [delete the generated png images]
+2024-12-17 10:26:24,983 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_002.mp4 -loglevel error
+2024-12-17 10:26:36,844 INFO: [delete the generated png images]
+2024-12-17 10:27:02,141 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_003.mp4 -loglevel error
+2024-12-17 10:27:13,984 INFO: [delete the generated png images]
+2024-12-17 10:28:02,281 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_004.mp4 -loglevel error
+2024-12-17 10:28:21,894 INFO: [delete the generated png images]
+2024-12-17 10:29:07,462 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_005.mp4 -loglevel error
+2024-12-17 10:29:26,122 INFO: [delete the generated png images]
+2024-12-17 10:30:11,502 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_006.mp4 -loglevel error
+2024-12-17 10:30:29,260 INFO: [delete the generated png images]
+2024-12-17 10:31:14,581 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_007.mp4 -loglevel error
+2024-12-17 10:31:32,588 INFO: [delete the generated png images]
+2024-12-17 10:32:20,277 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_008.mp4 -loglevel error
+2024-12-17 10:32:39,916 INFO: [delete the generated png images]
+2024-12-17 10:33:26,007 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_009.mp4 -loglevel error
+2024-12-17 10:33:44,239 INFO: [delete the generated png images]
+2024-12-17 10:34:30,406 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_010.mp4 -loglevel error
+2024-12-17 10:34:48,792 INFO: [delete the generated png images]
+2024-12-17 10:35:34,658 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_011.mp4 -loglevel error
+2024-12-17 10:35:53,006 INFO: [delete the generated png images]
+2024-12-17 10:36:41,087 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_012.mp4 -loglevel error
+2024-12-17 10:37:00,795 INFO: [delete the generated png images]
+2024-12-17 10:37:46,806 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_013.mp4 -loglevel error
+2024-12-17 10:38:05,100 INFO: [delete the generated png images]
+2024-12-17 10:38:51,557 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_014.mp4 -loglevel error
+2024-12-17 10:39:09,190 INFO: [delete the generated png images]
+2024-12-17 10:39:52,127 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_tile_015.mp4 -loglevel error
+2024-12-17 10:40:09,379 INFO: [delete the generated png images]
+2024-12-17 10:40:59,820 DEBUG: F:\ffmpeg\ffmpeg-7.0.2-full_build-shared\bin\ffmpeg.EXE -r 25 -start_number 0 -i %d.png -threads 6 -preset faster -c:v libx264 -g 60 -bf 0 -qp 29 -y E:\code\cust-project\vr-video\e3po\pythonProject\E3PO\e3po\source\video\group_2\simple3\erp\dst_video_folder\chunk_0000_background.mp4 -loglevel error
+2024-12-17 10:41:19,202 INFO: [delete the generated png images]
+2024-12-17 10:41:19,218 INFO: [delete the generated video]
+2024-12-17 10:41:19,219 INFO: on_demand preprocessing end.
+2024-12-17 10:41:19,219 INFO: [preprocessing data] end

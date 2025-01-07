@@ -1,12 +1,70 @@
-from flask import Flask, request, send_file, jsonify
+from flask import Flask, request, send_file, jsonify, Response
 from multiprocessing import Process, Pipe
 import json
 import requests
 
-app = Flask(__name__)
-
 #   全局变量data，用于在进程中存储数据
 global_data = None
+
+from flask import Flask
+import cv2
+
+# 初始化 Flask 和 Flask-SocketIO
+app = Flask(__name__)
+
+# 视频流（替换为摄像头索引或文件路径）
+video_path = "E:\\code\\opengl_learn\\glex\\Project1\\simple3.mp4"  # 替换为 0 使用摄像头
+cap = cv2.VideoCapture(video_path)
+
+def gen_frames():
+    cap = cv2.VideoCapture(video_path)
+    if not cap.isOpened():
+        print("Error: Unable to open video source.")
+        return
+    frame_count = 0
+    while cap.isOpened():
+        success, frame = cap.read()
+        if not success:
+            cap.set(cv2.CAP_PROP_POS_FRAMES, 0)  # 循环播放
+            continue
+        try:
+            _, buffer = cv2.imencode('.jpg', frame)
+            if buffer is None:
+                print(f"Error encoding frame at frame {frame_count}")
+                continue
+            yield (b'--frame\r\n'
+                   b'Content-Type: image/jpeg\r\n\r\n' + buffer.tobytes() + b'end')
+        except cv2.error as e:
+            print(f"Error encoding frame at frame {frame_count}: {e}")
+            continue
+
+@app.route('/video_feed')
+def video_feed():
+    return Response(gen_frames(),
+                    mimetype='multipart/x-mixed-replace; boundary=frame')
+
+@app.route("/get_stream")
+def send_video_frames():
+    """
+    持续读取视频帧并通过 WebSocket 发送。
+    """
+    while True:
+        ret, frame = cap.read()
+        if not ret:
+            cap.set(cv2.CAP_PROP_POS_FRAMES, 0)  # 视频结束后重头播放
+            continue
+
+        # 压缩并发送帧数据
+        frame_data = encode_frame(frame)
+        return frame_data
+
+
+def encode_frame(frame):
+    """
+    将 OpenCV 的帧编码为 JPEG，并转换为字节流。
+    """
+    _, buffer = cv2.imencode(".jpg", frame)
+    return buffer.tobytes()
 
 
 # 用于处理进程通信的模块
@@ -93,11 +151,6 @@ def get_video(subpath):
     return send_file(whole_path, mimetype='video/mp4')
 
 
-if __name__ == '__main__':
-    # server_conn, predict_conn = Pipe()
-    # predict_p = Process(target=get_data_from_viewport_prediction, args=(predict_conn,))
-    # server_p = Process(target=send_data_to_viewport_prediction, args=(server_conn))
-    # predict_p.start()
-    # server_p.start()
-
+if __name__ == "__main__":
+    print("Starting video stream...")
     app.run()
